@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1bM4m117KB/](https://www.bilibili.com/video/BV1bM4m117KB/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+小程序的校园维修管理系统小程序(源代码+数据库)153
 
